@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+background: #27541d
+}
+.Decor h1{
+  margin: 10px;
+  padding:25px;
+  font-size:3.5em;
+  font-weight: bolder;
+  color:#f2eb1f;
+  background: #b603fc;
+}
+.navbar ul{
+  margin:10px;
+  text-align: justify;
+  float: right;
+}
+.navbar li{
+  display:inline-flex;
+}
+.navbar li a{
+  font-size: 40px;
+  font-weight: bolder;
+  color: #46f21f;
+  margin: 10px;
+}
+.navbar li a:hover{
+  color:#fc7f03;
+}
+.Logo img{
+width:70vw;
+height:29vh;
+margin: 200px 15px 50px 10px;
+border:10px  solid #8cddff;
+}
+#text {
+  font-size: 30px;
+  font-family: sans-serif;
+}
